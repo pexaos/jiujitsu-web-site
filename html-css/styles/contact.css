@@ -1,0 +1,29 @@
+.contact-grid-wrapper{
+    width: 1000px;
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    grid-gap: 100px;
+}
+
+.company-metadta-sidebar-wrapper> .logo img{
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.company-metadta-sidebar-wrapper> .company-details-wrapper{
+    font-family: "ubuntu condensed", sans-serif;
+    font-weight: 900;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: right;
+    font-size: 1.25em;
+    
+}
+
+.company-metadta-sidebar-wrapper> .company-details-wrapper i{
+    color: #cea135;
+
+}

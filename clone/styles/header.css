@@ -1,0 +1,31 @@
+.lehijudoheader .wrapper{
+    display: flex;
+    justify-content: center;
+    font-style: normal;
+    padding: 10px;
+    text-align: center;
+    height: 190px;
+    background-color: #110301;
+    color: #cbcbcb;
+}
+
+.left-column{
+    display: flex;
+    justify-content: center;
+    background-color: #110301;
+  
+}
+
+
+.right-column{
+    width: auto;
+    float: right;
+    list-style: none;
+    color: #FFFFFF;
+    margin: 0;
+    padding: 45px 20px 0 0;
+    line-height: 20px;
+    
+
+
+}
